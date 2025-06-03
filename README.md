@@ -30,7 +30,3 @@ This repository contains my solutions and notes from the **Summer Analytics 2025
 - Live Q&A sessions and AMAs with industry mentors  
 - Weekly resource sharing (articles, datasets, tutorials)  
 - Final project & hackathon opportunities
-
----
-
-> This repo serves as a personal record of my learning journey through Summer Analytics 2025. Feel free to explore, refer, or fork if you're going through the same course or just curious about beginner-friendly data analysis projects.
