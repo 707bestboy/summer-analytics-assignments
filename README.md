@@ -22,11 +22,21 @@ This repository contains my solutions and notes from the **Summer Analytics 2025
 
 ## 📂 Repository Contents
 
-- 📁 Weekly assignment notebooks (`.ipynb`)
+- 📁 [Weekly assignment notebooks](#assignments)
+- 📁 [Notes](#notes)
 
-### 📝 ASSIGNMENTS
+---
 
- - [WEEK 1](assignments/SA2025_W1.ipynb)
+## 📝 ASSIGNMENTS
+
+- [WEEK 1](assignments/SA2025_W1.ipynb)
+
+---
+
+## 📓 NOTES
+
+- notes will be added in this section
+
 ---
 
 ## 💬 Course Features
