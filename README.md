@@ -23,6 +23,10 @@ This repository contains my solutions and notes from the **Summer Analytics 2025
 ## 📂 Repository Contents
 
 - 📁 Weekly assignment notebooks (`.ipynb`)
+
+### 📝 ASSIGNMENTS
+
+ - [WEEK 1](assignments/SA2025_W1.ipynb)
 ---
 
 ## 💬 Course Features
