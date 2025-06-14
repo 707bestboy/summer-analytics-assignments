@@ -30,6 +30,7 @@ This repository contains my solutions and notes from the **Summer Analytics 2025
 ## 📝 ASSIGNMENTS
 
 - [WEEK 1](assignments/SA2025_W1.ipynb)
+- [WEEK 2](assignments/hackathon1_notebook.ipynb)
 
 ---
 
