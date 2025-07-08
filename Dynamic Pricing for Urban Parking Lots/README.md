@@ -4,7 +4,7 @@
 
 A real-time, intelligent pricing engine for managing urban parking spaces using demand-driven logic, real-time data streams, and machine learning principles — all built **from scratch** using only Python, NumPy, Pandas, and [Pathway](https://pathway.com).
 
-> 📅 Capstone Project — July 2025  
+> 📅 Capstone Project — July 2025
 
 ---
 
@@ -113,30 +113,6 @@ flowchart TD
 * Add **Model 3** with location-based competitive pricing
 * Integrate Google Maps API for routing logic
 * Deploy as a web app with user-facing dashboard
-
----
-
-## 📌 How to Run
-
-1. Clone the repo:
-
-   ```bash
-   git clone https://github.com/your-username/parking-pricing-system.git
-   ```
-
-2. Install dependencies:
-
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. Run the notebook:
-
-   ```bash
-   Open model1_model2_notebook.ipynb in Google Colab or Jupyter
-   ```
-
-4. Upload your CSV (or use the sample) and execute.
 
 ---
 
